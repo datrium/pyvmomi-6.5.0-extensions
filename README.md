@@ -50,3 +50,22 @@ There are a few _major_ benefits/reasons to use these pyvmomi extensions.
 2. hides the complexity of `PropertyCollector`s; and destroys instances when done
 3. adds [subprocess](https://docs.python.org/2/library/subprocess.html) style methods to `HostSystem`s and `VirtualMachine`s
 4. adds `ImportOVF()` to a `VC` instance
+
+
+# Contributors
+The original source for this repository is a private git repository
+at Datrium Inc. Because of that, GitHub commit history does not show
+contributions made by Datrium employees over time. This section is used
+to give credit to those that have contributed to this project internally
+at Datrium Inc.
+
+* Anupam Garg \<angarg@gmail.com\>
+* Arun Mittal \<arun@datrium.com\>
+* Ashish Prajapati \<ashish@datrium.com\>
+* Damon Wong \<damon@datrium.com\>
+* David Piet \<david@datrium.com\>
+* E Lewis \<elewis@datrium.com\>
+* Greg Biles \<greg@datrium.com\>
+* Kyle Harris \<digibee@gmail.com\>
+* Tuan Bui \<tuan@datrium.com\>
+* Yi Zhu \<yizhu@datrium.com\>
